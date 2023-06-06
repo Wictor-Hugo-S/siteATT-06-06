@@ -1,0 +1,116 @@
+.conteudo-sua-empresa {
+
+
+    background-image: linear-gradient(180deg, #fb2f3f 0%, #7e000b 100%);
+    width: 100%;
+    height: 100%;
+
+    padding-top: 60px;
+    padding-bottom: 100px;
+text-align: center;
+
+
+}
+
+.container-conteudo-sua-empresa {
+  width: 100%;
+    
+    
+}
+
+.title-conteudo-sua-empresa h1 {
+
+    font-weight: bold;
+    font-family: "Roboto", Montserrat;
+    color: #0000;
+    -webkit-text-stroke: 4px #FFF;
+    margin-bottom: -15px;
+
+
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #0c2633;
+    font-family: Helvetica;
+    color: white;
+    font-size: 90px;
+    text-transform: uppercase;
+}
+
+.title-conteudo-sua-empresa span {
+    font-size: 45px;
+    color: #041e2b;
+    font-family: "Roboto", Montserrat;
+    font-weight: 600;
+    margin-bottom: 70px;
+    padding-left: 120px;
+    text-transform: uppercase;
+}
+
+.wrapper-conteudo-sua-empresa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+.box-conteudo-sua-empresa {
+  width: 50%;
+  max-width: 500px;
+  
+    border-radius: 20px 20px 20px 20px;
+
+    gap: 0 30px;
+    color: white;
+    background-image: linear-gradient(180deg, #0e2c3b 80%, #041e2b 100%);
+    border: none;
+    padding: 25px 30px 25px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+
+.title-box-sua-empresa {
+    display: flex;
+    flex-direction: column;
+    
+    gap: 20px 0;
+}
+
+.title-box-sua-empresa span {
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 500;
+
+
+}
+
+.title-box-sua-empresa span{
+  width: 50%;
+    font-size: 19px;
+}
+.description-box-sua-empresa p{
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+
+
+
+
+
+
+.imagem-conteudo-sua-empresa img {
+    width: 700px;
+    height: 700px;
+    object-fit: contain;
+    max-width: 1400px;
+
+}
